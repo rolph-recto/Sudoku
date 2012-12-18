@@ -1,0 +1,3 @@
+Sudoku Solver
+
+A sudoku solver program. Uses constraint programming to fill in the missing values of the Sudoku board. This is still in progress, though, as constraints do not always completely solve the board.
